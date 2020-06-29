@@ -37,7 +37,7 @@ right:0px;
 .cuerpo{
 width: 300px;
 height: 600px;
-background-image: linear-gradient(45deg,green 10%,  blue 30%,  yellow 60%);
+background-image: linear-gradient(45deg,green 10%,  blue 30%,  yellow 50%, rgba(139, 126, 126, 0.575) 10%);
 position: relative;
 top:450;
 left: 0;
